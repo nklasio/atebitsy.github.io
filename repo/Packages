@@ -5,13 +5,13 @@ Maintainer: atebitsy <atebitsy@gmail.com>
 Installed-Size: 216
 Depends: mobilesubstrate
 Filename: debs/com.atebitsy.annotation_1.0_iphoneos-arm.deb
-Size: 4210
-MD5sum: ff38e72f21c81eda2c9c441f048a0758
-SHA1: e6896a0154aa31c2de3086b3b7ca96c0c8eb0d37
-SHA256: 72763bfa42ac10232de54426c1c04dfced2f93cbc8ff7a4caeb038336e49f7f9
+Size: 4220
+MD5sum: d811bd7d83de855954ffcb2420fd2edd
+SHA1: 66a1e9a8a2d6cc5150a4f65bb40aac3b8a25546e
+SHA256: 25aef5a31c46e6f6fb1ada4e2498507aa0b65c597d362bf327fcd2c282925dce
 Section: Tweaks
 Description: Adds the ability to add descriptions to your playlists and change your playlist image cover to your liking on the Spotify app.
 Author: atebitsy <atebitsy@gmail.com>
-Depiction: https://atebitsy.com/repo/package/Annotation.html
+Depiction: https://www.atebitsy.com/repo/package/annotation.html
 Name: Annotation
 

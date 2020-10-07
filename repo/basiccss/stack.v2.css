@@ -1,0 +1,20 @@
+@font-face {
+    font-family: dd sf compact rounded;
+    src: url(sfcr_light.woff2) format('woff2'), url(sfcr_light.woff) format('woff'), url(sfcr_light.ttf) format('truetype');
+    font-weight: 300;
+    font-style: normal
+}
+
+@font-face {
+    font-family: dd sf compact rounded;
+    src: url(sfcr_regular.woff2) format('woff2'), url(sfcr_regular.woff) format('woff'), url(sfcr_regular.ttf) format('truetype');
+    font-style: normal
+}
+
+@font-face {
+    font-family: dd sf compact rounded;
+    src: url(sfcr_medium.woff2) format('woff2'), url(sfcr_medium.woff) format('woff'), url(sfcr_medium.ttf) format('truetype');
+    font-weight: 500;
+    font-style: normal
+}
+

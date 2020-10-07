@@ -10,7 +10,6 @@ body main {
     overflow: inherit;
     padding-left: 20px;
     padding-right: 20px;
-    padding-top: 60px;
     margin: auto;
     flex-wrap: wrap;
     justify-items: flex-start;

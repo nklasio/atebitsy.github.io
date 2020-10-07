@@ -209,12 +209,12 @@ ul#alerts > li .md > p:last-child, ul#alerts > li:last-child {
             margin: 5px 0 35px 0;
             padding: 0;
             list-style: none;
-            background: #050505
+            background: #121212
         }
 
 
     ul li [role=button]:active, ul li [role=button]:focus, ul li [role=link]:active,
     ul li [role=link]:focus {
-        background-color: #000000
+        background-color: #282828
     }
 }

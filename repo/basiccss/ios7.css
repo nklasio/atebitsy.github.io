@@ -28,7 +28,7 @@ body > header:after, ul li:after, ul:after, ul:before {
 }
 
 html {
-    line-height: 1.15;
+    line-height: 0.0;
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%
 }
@@ -234,24 +234,6 @@ button {
     appearance: none
 }
 
-.subpixel-line, body > header:after, hr, ul li:after, ul:after, ul:before {
-    display: block;
-    width: 100%;
-    height: 0.5px;
-    background: #c8c7cc
-}
-
-.has-subpixel .subpixel-line, .has-subpixel body > header:after, .has-subpixel hr,
-.has-subpixel ul li:after, .has-subpixel ul:after, .has-subpixel ul:before,
-ul .has-subpixel li:after {
-    height: .5px
-}
-
-.has-subpixel-3x .subpixel-line, .has-subpixel-3x body > header:after,
-.has-subpixel-3x hr, .has-subpixel-3x ul li:after, .has-subpixel-3x ul:after,
-.has-subpixel-3x ul:before, ul .has-subpixel-3x li:after {
-    height: .33px
-}
 
 html {
     background: #efeff5
@@ -480,7 +462,7 @@ ul + [role=footer], ul + p {
     }
 
     ul {
-        background: #050505;
+        background: #121212;
         color: #fff
     }
     .md {
@@ -503,13 +485,13 @@ ul + [role=footer], ul + p {
             margin: 5px 0 35px 0;
             padding: 0;
             list-style: none;
-            background: #050505
+            background: #121212
         }
 
 
     ul li [role=button]:active, ul li [role=button]:focus, ul li [role=link]:active,
     ul li [role=link]:focus {
-        background-color: #000000
+        background-color: #282828
     }
 }
 

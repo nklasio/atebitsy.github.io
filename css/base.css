@@ -6522,11 +6522,6 @@ a.text-dark:focus, a.text-dark:hover {
 .invisible {
     visibility: hidden !important
 }
-/*!
- * Chariz
- *
- * @copyright HASHBANG Productions
- */
 
 .hidden-xs-up {
     display:none
@@ -7672,7 +7667,7 @@ body {
     height:24px
 }
 
-.avatar.avatar-chariz {
+.avatar.avatar-atebitsy {
     border:4px solid #fd7423
 }
 
@@ -7746,11 +7741,11 @@ ol.list-big-numbers li:before {
     margin-right:.25em
 }
 
-.icon-chariz-flame, .icon-chariz-flame-head {
+.icon-atebitsy-flame, .icon-atebitsy-flame-head {
     width:.63em
 }
 
-.icon-chariz-word {
+.icon-atebitsy-word {
     width:1.8em
 }
 
@@ -7998,12 +7993,12 @@ code, pre, tt {
     color:#4a4a4a
 }
 
-.navbar-brand .icon-chariz-flame-head {
+.navbar-brand .icon-atebitsy-flame-head {
     color: #fd7423;
-    fill:url(#chariz-flame-gradient)
+    fill:url(#atebitsy-flame-gradient)
 }
 
-.navbar-brand .icon-chariz-word {
+.navbar-brand .icon-atebitsy-word {
     margin-left:.35em
 }
 
@@ -9688,12 +9683,12 @@ input[type=password]:focus, input[type=search]:focus, input[type=text]:focus, se
     font: 800 6rem -apple-system, -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif
 }
 
-#home-jumbotron-welcome .icon-chariz-flame, #home-jumbotron-welcome h1.display-1 {
+#home-jumbotron-welcome .icon-atebitsy-flame, #home-jumbotron-welcome h1.display-1 {
     color: #fff;
     opacity:.55
 }
 
-#home-jumbotron-welcome .icon-chariz-flame {
+#home-jumbotron-welcome .icon-atebitsy-flame {
     -webkit-filter: drop-shadow(0 1px 1px rgba(0, 0, 0, .5));
     filter:drop-shadow(0 1px 1px rgba(0, 0, 0, .5))
 }
